@@ -1,0 +1,31 @@
+em {
+    background-color: rgb(72, 48, 204);
+    color: rgb(90, 194, 212);
+}
+
+strong {
+    font-weight: bold;font-style: italic;
+}
+
+p {
+    border: 1px solid rgb(25, 225, 240);
+}
+
+h1{
+    color: rgb(75, 170, 187);filter: drop-shadow(0 0 0.25rem rgba(60, 105, 255, 0.671));padding-left: 700px;
+}
+
+h2{
+    color: rgb(90, 194, 212);
+}
+p {
+    margin-bottom : 80px;
+    margin-left: 700px;
+    margin-right: 700px;
+     }
+  big{
+    color: rgb(75, 170, 187);
+}
+small{
+        color: rgb(75, 170, 187)}
+

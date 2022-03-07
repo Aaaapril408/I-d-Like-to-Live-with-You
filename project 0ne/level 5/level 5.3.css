@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+
+body{
+    margin-top: 150px; 
+letter-spacing: normal;
+padding: 10px;
+line-height: 80px;
+font-family: 'Sansita Swashed', cursive;
+font-weight: bolder;
+font-size: 200%;
+}
+body{
+    background-image: url(https://images.theconversation.com/files/212876/original/file-20180403-189813-1qwi38v.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a {
+        position: relative;
+        animation-name: example;
+        animation-duration: 5s;  
+        animation-delay: 2s;
+        animation-fill-mode: both;
+      }
+      
+      @keyframes example 
+
+      
+    {from {left: -400px;opacity: 0}
+      to {left:750px;opacity: 1};
+    }
+   
+.b{ text-align: center;
+    position: relative;
+    animation-name: hhhh;
+    animation-duration: 5s;  
+    animation-delay: 6s;
+    animation-fill-mode: both;
+}
+
+@keyframes hhhh
+  
+{from {right: -800px;opacity: 0}
+  to {right:10px;opacity: 1};
+}
+.big{
+    color: black;
+    transition-duration: 1s;
+}
+.big:hover{color: rgb(255, 132, 83);
+    font-size: 150%;
+    filter: drop-shadow(0 0 0.25rem rgba(255, 167, 26, 0.801));}
+
+    .small{
+        color: rgb(0, 0, 0);
+        font-size: 100%;    
+        transition-duration: 1s;  
+    }
+    .small:hover{
+        color: rgb(93, 93, 93);
+        font-size: 50%;  
+        font-weight: lighter;}
+
+.rose{
+   color: rgb(0, 0, 0); 
+}
+.rose:hover{
+    color: rgb(194, 20, 101);
+}
+      
+.heart{ color: rgb(0, 0, 0);}
+.heart:hover{
+    color: rgb(194, 20, 20);
+}
+
+.ship{
+    color: rgb(0, 0, 0 )
+}
+.ship:hover{
+    color: rgb(50, 50, 163);
+}
+
+button{ 
+    letter-spacing: normal;
+    padding: 10px;
+    line-height: 80px;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bolder;
+    font-size: 100%;
+    background-color: #4caf4f00; 
+    border: none;
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 100%;    
+    letter-spacing: normal;
+    transition-duration: 2s;
+}
+
+a:hover{
+    font-size: 120%;    
+    letter-spacing: 1cm;
+    color: rgb(65, 116, 235);
+}
+.qq{
+    font-size: 30%;
+    line-height: 50px
+}

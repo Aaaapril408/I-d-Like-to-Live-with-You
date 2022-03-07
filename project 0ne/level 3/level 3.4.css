@@ -1,0 +1,19 @@
+div.static {
+    position: static;
+    border: 10px solid #5c66bd;
+    border-radius: 10mm;
+    height: 250px;
+    width: 800px;
+    background-color: powderblue;
+    margin-bottom : 80px;
+    margin-left: 600px;
+    margin-right: 700px;
+  }
+  h2{
+   color: rgb(16, 115, 133);padding-left: 20cm;
+}
+p{
+   margin-bottom : 80px;
+    margin-left: 600px;
+    margin-right: 700px;
+}

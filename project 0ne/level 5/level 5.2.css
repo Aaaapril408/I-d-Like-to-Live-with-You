@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+.mmm{
+    margin: auto;
+text-align: center;
+letter-spacing: normal;
+padding: 10px;
+line-height: 80px;
+font-family: 'Sansita Swashed', cursive;
+font-weight: bolder;
+font-size: 200%;
+text-transform: initial;
+color: rgb(255, 255, 255);
+}
+
+
+
+.mmm{
+  background-image: url(https://media.newyorker.com/photos/590967bf019dfc3494ea0e9d/16:9/w_1280,c_limit/Reiss-A-Few-Thoughts-From-Monet-on-Those-Stacks-Of-Wheat.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation-iteration-count:1;
+  animation-duration: 5s;
+  animation-name: haha;
+  
+ }
+
+@keyframes haha {
+  from {opacity: 0}
+      to {opacity: 1}}
+
+a{
+        color: rgb(223, 49, 101);
+        text-decoration: none;
+    }
+
+.qq{
+      font-size: 30%;
+      line-height: 50px
+    }

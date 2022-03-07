@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+
+body{
+    color: aliceblue;
+    filter: drop-shadow(0 0 0.25rem rgba(34, 38, 47, 0.671));
+    margin-top: 150px; 
+text-align: center;
+letter-spacing: normal;
+padding: 10px;
+line-height: 80px;
+font-family: 'Sansita Swashed', cursive;
+font-weight: bolder;
+font-size: 200%;
+}
+
+.a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 100%;    
+    letter-spacing: normal;
+    transition-duration: 1s;
+}
+
+.a:hover{
+    font-size: 120%;    
+    letter-spacing: 1cm;
+    color: rgb(0, 76, 255);}
+
+.b{ 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 100%;    
+    letter-spacing: normal;
+    transition-duration: 1s;}
+
+.b:hover{
+    font-size: 120%;    
+    letter-spacing: 1cm;
+    color: rgb(0, 76, 255);}
+
+.c{ 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 100%;    
+    letter-spacing: normal;
+    transition-duration: 1s;}
+
+.c:hover{
+    font-size: 120%;    
+    letter-spacing: 1cm;
+    color: rgb(0, 76, 255);}
+
+a{
+    color: rgb(223, 49, 101);
+    text-decoration: none;
+}
+
+body{
+   background-image: url(https://www.toledomuseum.org/sites/default/files/thumbnail_resize_formatfull.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.qq{
+    font-size: 30%;
+    line-height: 50px
+  }

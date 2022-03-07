@@ -1,0 +1,33 @@
+body {
+    font-family: "Sofia", sans-serif;margin-left: 800px;
+  }
+  h1.a {
+    font-family: "Audiowide", sans-serif;
+  }
+  
+  h2.b {
+    font-family: "Sofia", sans-serif;
+  }
+  
+  h3.c {
+    font-family: "Trirong", serif;
+  }
+  h4.d {
+    font-family: 'Hubballi', cursive;
+  }
+  h5{
+      font-weight: bolder;color: blueviolet;
+  }
+  div{
+
+    padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+    border: 10px solid #5c66bd;
+    border-radius: 10mm;
+    height: 250px;
+    width: 400px;
+    background-color: powderblue;
+  }
+

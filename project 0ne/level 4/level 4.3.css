@@ -1,0 +1,24 @@
+div {
+  margin: auto;
+  text-align: center;
+  letter-spacing: normal;
+  width: 60%;
+  padding: 10px;
+  line-height: 25px;
+}
+h2 {
+    margin: auto;
+  text-align: center;
+  color: rgb(75, 170, 187);
+}
+big{
+    color: rgb(75, 170, 187);font-size: 104%;
+}
+h1{
+    color: rgb(75, 170, 187);
+}
+
+small{ 
+        color: rgb(75, 170, 187)}
+span{
+    color: rgb(75, 170, 187)}

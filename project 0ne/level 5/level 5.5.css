@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+body{
+    color: aliceblue;
+    margin-top: 150px; 
+text-align: center;
+letter-spacing:5px;
+line-height: 150%;
+padding: 10px;
+line-height: 80px;
+font-family: 'Sansita Swashed', cursive;
+font-weight: bolder;
+font-size: 200%;
+}
+.glows{
+    color: aliceblue;
+    font-size: 100%;    
+    transition-duration: 1s;
+}
+.glows:hover{
+    color: rgb(255, 132, 83);
+    font-size: 150%;
+    filter: drop-shadow(0 0 0.25rem rgba(255, 167, 26, 0.801));
+}
+.down{
+    color: aliceblue;
+    font-size: 100%;    
+    transition-duration: 1s;  
+}
+.down:hover{
+    color: rgb(93, 93, 93);
+    font-size: 50%;  
+    font-weight: lighter;
+}
+
+body{
+    background-image: url(https://www.artnews.com/wp-content/uploads/2022/01/Monet-Sur-la-falaise-pres-de-Dieppe-soleil-couchant-e1642625179607.jpg?w=1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.qq{
+    font-size: 30%;
+    line-height: 50px
+  }
+
+.long{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 100%;    
+        transition-duration: 2s;
+    }
+    
+.long:hover{
+        font-size: 120%;    
+        letter-spacing: 1cm;
+        color: rgb(65, 116, 235);
+}

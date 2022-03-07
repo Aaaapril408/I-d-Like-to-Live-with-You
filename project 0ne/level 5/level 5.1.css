@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+button {
+    background-color: #4caf4f00; 
+    border: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 400px;
+    margin-left: 40%;
+    transition-duration: 2s;
+    cursor: pointer;
+    font-family: 'Sansita Swashed', cursive;
+  }
+
+button {
+    font-size: 100%;
+  }
+  
+button:hover {
+   font-size: 400%;
+  }  
+  body{
+      background-image: url(https://cdn.europosters.eu/image/750/posters/claude-monet-san-giorgio-maggiore-at-dusk-i108314.jpg);
+      background-repeat: no-repeat;
+      background-size: cover; 
+  }
+  a{
+      color: aliceblue;
+      text-decoration: none;
+  }
+
+  div{
+    margin-top: 390px;
+  }

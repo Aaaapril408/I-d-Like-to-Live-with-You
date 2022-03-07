@@ -1,0 +1,19 @@
+li {
+    display: inline;
+    color: rgb(104, 206, 224);padding-left: 18cm;
+    
+  }
+  img {
+    float: right;
+    margin-top: 0cm;
+    margin-left: 5cm;
+    border-radius: 10cm;
+    filter: drop-shadow(0 0 0.5rem rgba(28, 31, 44, 0.87));
+  }
+  h2{
+   color: rgb(16, 115, 133);padding-left: 20cm;
+  }
+  #p1 {background-color:rgba(255,0,0,0.3);}
+  strong{
+    color: rgb(16, 115, 133);padding-left: 20cm;
+  }

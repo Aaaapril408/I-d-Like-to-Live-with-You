@@ -1,0 +1,40 @@
+em {
+    background-color: rgb(72, 48, 204);
+    color: rgb(90, 194, 212);
+}
+
+strong {
+    color: rgb(104, 206, 224);
+   }
+
+
+h1{
+    color: rgb(50, 107, 155);filter: drop-shadow(0 0 0.25rem rgba(227, 233, 255, 0.671));padding-left: 20cm;
+}
+
+h2{
+    color: rgb(16, 115, 133);padding-left: 20cm;
+}
+h3{
+    color: rgb(56, 177, 199);padding-left: 20cm;
+}
+h4{
+    color: rgb(104, 206, 224);padding-left: 20cm;
+}
+h5{
+    color: rgb(155, 228, 241);padding-left: 20cm;
+}
+h5{
+    color: rgb(192, 237, 248);padding-left: 20cm;
+}
+h6
+{
+    color: rgb(255, 255, 255);padding-left: 20cm;
+}
+
+big{
+    color: rgb(75, 170, 187);
+}
+small{
+    color: rgb(75, 170, 187);
+}
